@@ -1,1 +1,1 @@
-In the Odin Recipes Project I tried to use everything that I learned from this lesson,  including (<strong>,<a>,<p>,<li>,<ol>,<ul>,<img>), and linking three pages together.
+In the Odin Recipes Project, I tried to use everything that I learned from this lesson, including various elements and tags, and linked three pages together.
